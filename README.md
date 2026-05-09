@@ -21,10 +21,10 @@ This project focuses on analyzing sales data and building an interactive dashboa
 
 ## 🛠️ Technologies Used
 
-* **SQL (MySQL / PostgreSQL)** – Data querying & analysis
+* **SQL (MySQL / sqlalchemy)** – Data querying & analysis
 * **Excel** – Data preprocessing
 * **Power BI** – Dashboard & visualization
-* **Python (Optional)** – Data cleaning (Pandas, NumPy)
+* **Python ** – Data cleaning (Pandas, NumPy)
 
 ---
 
